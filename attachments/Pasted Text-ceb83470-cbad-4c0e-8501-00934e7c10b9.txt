@@ -1,0 +1,313 @@
+⚡ STOCK‑ISM AI — FULL IN‑APP COPY SYSTEM
+Ultra‑clean. Tactical. Zero hype.
+
+───
+
+🟩 1. ONBOARDING
+
+Welcome Screen
+STOCK‑ISM AI
+ Market‑Scanning Intelligence. Tactical Alerts. Zero Noise.
+
+Button: Activate System
+
+───
+
+Capital Input
+Your Capital Range
+ Tell the system how much you typically deploy.
+
+Field: Enter amount or range
+ Note: Used only to tailor alert sizing.
+
+Button: Continue
+
+───
+
+Risk Profile
+Your Risk Mode
+ Choose how aggressively the system should surface opportunities.
+
+• Conservative
+• Balanced
+• Aggressive
+
+Button: Set Profile
+
+───
+
+Alert Preferences
+Alert Categories
+ Choose what the system should monitor for you.
+
+• Momentum Setups
+• Volatility Spikes
+• Sector Rotations
+• Pattern Matches
+• Risk Warnings
+
+Button: Save Preferences
+
+───
+
+Notification Channels
+How You Want Alerts
+ Select your delivery method.
+
+• Push Notifications
+• SMS
+• Email (optional)
+
+Button: Finish Setup
+
+───
+
+🟩 2. HOME SCREEN — SYSTEM OVERVIEW
+
+Header
+SYSTEM ONLINE
+ Market conditions updating in real time.
+
+───
+
+Market Pulse Widget
+Market Pulse
+ Momentum rising in mid‑cap tech. Volatility stable.
+
+───
+
+Today’s Key Signals
+Top Signals Today
+ High‑probability setups detected across multiple sectors.
+
+Button: View Signals
+
+───
+
+Volatility Snapshot
+Volatility Level: Moderate
+ Expect sharper moves in small‑caps.
+
+───
+
+Alert Summary
+New Alerts: 7
+ 3 momentum, 2 volatility, 2 sector rotation.
+
+Button: Open Alerts
+
+───
+
+🟩 3. SIGNALS SCREEN
+
+Signals Header
+Active Signals
+ Real‑time opportunities detected by the system.
+
+───
+
+Signal Card Copy (Template)
+Momentum Setup — Mid‑Cap Tech
+ Trend Strength: High
+ Volatility: Low
+ Probability: 72%
+
+AI Note: Continuation likely. Watch for volume confirmation.
+
+Capital‑Aware Insight:
+ With  5,000: diversify across 2–3 correlated setups.
+
+Button: View Analysis
+
+───
+
+Filters
+Filter Signals
+ Sector • Probability • Volatility • Trend Strength
+
+───
+
+🟩 4. SIGNAL DETAIL SCREEN
+
+Header
+Signal Analysis
+
+───
+
+Trend Block
+Trend Direction: Up
+ Momentum increasing across multiple timeframes.
+
+───
+
+Volume Block
+Volume Status: Elevated
+ Unusual inflow detected.
+
+───
+
+Pattern Match
+Pattern Match: 78%
+ Historical continuation in similar setups.
+
+───
+
+Risk Score
+Risk Level: Medium
+ Volatility stable but rising.
+
+───
+
+AI Commentary
+“Momentum shift forming. Probability favors continuation if volume holds.”
+
+───
+
+Capital‑Aware Suggestions
+With  5,000: stagger entries to reduce volatility impact.
+ With $50,000: position‑sizing model recommended.
+
+───
+
+🟩 5. SCANNER SCREEN
+
+Header
+Market Scanner
+ Live scan across 15,000+ equities.
+
+───
+
+Sector Tiles
+Technology — Strength: High
+ Energy — Weakening
+ Financials — Neutral
+ Healthcare — Rising Momentum
+
+───
+
+Top Movers
+Top Active Stocks
+ Ranked by momentum and anomaly detection.
+
+───
+
+Scanner Note
+“Multiple sectors showing early rotation. Monitor trend stability.”
+
+───
+
+🟩 6. ALERTS SCREEN
+
+Header
+Real‑Time Alerts
+
+───
+
+Alert Card Copy (Template)
+Momentum Alert — Mid‑Cap Tech
+ Timestamp: 2:14 PM
+ Probability: 62%
+ “Momentum rising. Watch for breakout confirmation.”
+
+───
+
+Alert Categories
+Filter: Momentum • Volatility • Sector • Risk
+
+───
+
+🟩 7. PORTFOLIO SCREEN (Optional)
+
+Header
+Portfolio Overview
+
+───
+
+Exposure
+Sector Exposure:
+ Tech 42% • Energy 18% • Financials 12% • Other 28%
+
+───
+
+Risk Distribution
+Risk Level: Moderate
+ Exposure to high‑volatility assets detected.
+
+───
+
+AI Note
+“Consider balancing with lower‑volatility sectors to stabilize drawdowns.”
+
+───
+
+🟩 8. SETTINGS & PROFILE
+
+Header
+System Settings
+
+───
+
+Capital Range
+Update your capital range for tailored insights.
+
+───
+
+Risk Profile
+Adjust how aggressively the system surfaces opportunities.
+
+───
+
+Alert Frequency
+Choose how often alerts are delivered.
+
+───
+
+Notification Channels
+Push • SMS • Email
+
+───
+
+Theme
+Dark Mode (default)
+
+───
+
+🟩 9. EMPTY STATES (When no data)
+
+No Signals
+No Active Signals
+ System scanning. New opportunities will appear soon.
+
+───
+
+No Alerts
+No New Alerts
+ All clear. System monitoring in real time.
+
+───
+
+No Portfolio Data
+No Positions Added
+ Add your holdings to unlock portfolio insights.
+
+───
+
+🟩 10. FINAL CTA BLOCK
+
+System Online. Stay Ahead of the Market.
+
+Buttons:
+ Activate Intelligence Mode • View Signals • Customize Alerts
+
+───
+
+Jay — what do you want next?
+
+Choose your next build:
+
+• Logo concepts
+• Social media branding kit
+• Full marketing website copy
+• Investor pitch deck
+
+Tell me where you want to take Stock‑Ism AI next.

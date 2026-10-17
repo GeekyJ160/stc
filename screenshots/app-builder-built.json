@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Stock-ism AI",
+      "hasCanvas": false,
+      "bodyTextLen": 100,
+      "bodyTextHash": "b2075ea39e3c17dd9bb57fa6bd6668d2cf00e4eec05a6a0dada6fbdacb54f5c2",
+      "bodyTextPrefix": "Stock-ism AI Stock-ism AI Market-Scanning Intelligence. Tactical",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Stock-ism AI",
+      "hasCanvas": false,
+      "bodyTextLen": 100,
+      "bodyTextHash": "b2075ea39e3c17dd9bb57fa6bd6668d2cf00e4eec05a6a0dada6fbdacb54f5c2",
+      "bodyTextPrefix": "Stock-ism AI Stock-ism AI Market-Scanning Intelligence. Tactical",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (12 -> 100 chars, hash mismatch)"
+  ]
+}
